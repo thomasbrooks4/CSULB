@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Age_of_Mythology.NewGameForm" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAiAAABAAAACAAAADAAAIAAAIAEAAAQAAAAI=</HashCode>
+      <FileName>NewGameForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="AgeOfMythologyForm" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Age_of_Mythology.AgeOfMythologyForm" Collapsed="true">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>WCAAIhEBAGCDCRSWAADhQAETCBMgQQCBYUAygQBAQCc=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Player" />
+      <Property Name="VictoryCardsForm" />
+      <Property Name="DisplayHandForm" />
+      <Property Name="InitiationForm" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Age_of_Mythology.Board" Collapsed="true">
+    <Position X="9.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAgAggAAAAAgAAAAAAMAAA=</HashCode>
+      <FileName>Board.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Age_of_Mythology.CityArea" Collapsed="true">
+    <Position X="13.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAABAAAAAAAAAAAAAAAAAAAAAAAEAEAAAAAA=</HashCode>
+      <FileName>CityArea.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="CityTile" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Age_of_Mythology.EgyptianBoard" Collapsed="true">
+    <Position X="7.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>EgyptianBoard.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ProductionTile" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Age_of_Mythology.GreekBoard" Collapsed="true">
+    <Position X="9.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>GreekBoard.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ProductionTile" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Age_of_Mythology.NorseBoard" Collapsed="true">
+    <Position X="11.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>NorseBoard.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ProductionTile" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Age_of_Mythology.Player" Collapsed="true">
+    <Position X="9.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABIAAAAAIAQgAAAAABIAAAAAAAAAAAAAQAACAABAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Board" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Age_of_Mythology.Tile" Collapsed="true">
+    <Position X="10.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAABAAAABAAABAEAAgA=</HashCode>
+      <FileName>Tile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Age_of_Mythology.ProductionTile" Collapsed="true">
+    <Position X="9" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACAAAAAAAAAAAgEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProductionTile.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ResourcePiece" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Age_of_Mythology.CityTile" Collapsed="true">
+    <Position X="11.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CityTile.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="CityPiece" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Age_of_Mythology.CityPiece" Collapsed="true">
+    <Position X="11.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAIAAAQAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>CityPiece.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Age_of_Mythology.ResourcePiece" Collapsed="true">
+    <Position X="9" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAKAAAAAIAAAABAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>ResourcePiece.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Age_of_Mythology.VictoryCardsForm" Collapsed="true">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAQAAABCAAAEAAAACAQAACAFA4ABAAAPAIAAAAAAA=</HashCode>
+      <FileName>VictoryCardsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Age_of_Mythology.DisplayHandForm" Collapsed="true">
+    <Position X="1.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KABACEAAADCACAACAACpAAACANR7AQADoHAPAIABAEI=</HashCode>
+      <FileName>DisplayHandForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="BuildForm" />
+      <Property Name="InitiationForm" />
+      <Property Name="GatherForm" />
+      <Property Name="NextAgeForm" />
+      <Property Name="RecruitForm" />
+      <Property Name="TradeForm" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Age_of_Mythology.InitiationForm" Collapsed="true">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CDAAAAAAAGCACAgHBIDgAIECANw7gECjwXAfYyAQQAE=</HashCode>
+      <FileName>InitiationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Age_of_Mythology.BuildForm" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAQCAAAAAQAQDAAAACgAAAQAABAAAgAAQIAAA=</HashCode>
+      <FileName>BuildForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Age_of_Mythology.GatherForm" Collapsed="true">
+    <Position X="5.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAADgAAAAQAICAAAACAEAIAAAAAGAAAAAAiAI=</HashCode>
+      <FileName>GatherForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Age_of_Mythology.NextAgeForm" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAADAAAAAAAACAAAACAAAIAAABAEAAAAAAAAA=</HashCode>
+      <FileName>NextAgeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Age_of_Mythology.RecruitForm" Collapsed="true">
+    <Position X="3" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAARCAAAAADAICAAAACAMw7BAAhwHIfQAQAQAA=</HashCode>
+      <FileName>RecruitForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Age_of_Mythology.TradeForm" Collapsed="true">
+    <Position X="5.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAIGPMAgBAAAACAAAoCQAIICAwDAWAAIMwAAEA=</HashCode>
+      <FileName>TradeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

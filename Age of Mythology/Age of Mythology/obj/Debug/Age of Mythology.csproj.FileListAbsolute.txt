@@ -1,0 +1,125 @@
+C:\Users\Bryan\Desktop\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.exe.config
+C:\Users\Bryan\Desktop\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.exe
+C:\Users\Bryan\Desktop\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.pdb
+C:\Users\Bryan\Desktop\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.AgeOfMythologyForm.resources
+C:\Users\Bryan\Desktop\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.Properties.Resources.resources
+C:\Users\Bryan\Desktop\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.csproj.GenerateResource.Cache
+C:\Users\Bryan\Desktop\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.exe
+C:\Users\Bryan\Desktop\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.pdb
+C:\Users\Bryan\Desktop\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.NewGameForm.resources
+C:\Users\Bryan\Desktop\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.csprojResolveAssemblyReference.cache
+G:\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.exe.config
+G:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.exe
+G:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.pdb
+G:\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.exe
+G:\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.pdb
+G:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.AgeOfMythologyForm.resources
+G:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.NewGameForm.resources
+G:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.Properties.Resources.resources
+G:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.csproj.GenerateResource.Cache
+I:\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.exe.config
+I:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.exe
+I:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.pdb
+I:\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.exe
+I:\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.pdb
+I:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.csprojResolveAssemblyReference.cache
+I:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.AgeOfMythologyForm.resources
+I:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.InitiationForm.resources
+I:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.NewGameForm.resources
+I:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.Properties.Resources.resources
+I:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.csproj.GenerateResource.Cache
+I:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.VictoryCardsForm.resources
+G:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.InitiationForm.resources
+G:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.VictoryCardsForm.resources
+G:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.ActionCardForm.resources
+G:\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.exe.CodeAnalysisLog.xml
+G:\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.exe.lastcodeanalysissucceeded
+T:\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.exe.config
+T:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.exe
+T:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.pdb
+T:\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.exe
+T:\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.pdb
+T:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.csprojResolveAssemblyReference.cache
+T:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.ActionCardForm.resources
+T:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.AgeOfMythologyForm.resources
+T:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.InitiationForm.resources
+T:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.NewGameForm.resources
+T:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.Properties.Resources.resources
+T:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.VictoryCardsForm.resources
+T:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.csproj.GenerateResource.Cache
+H:\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.exe.config
+H:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.exe
+H:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.pdb
+H:\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.exe
+H:\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.pdb
+H:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.csprojResolveAssemblyReference.cache
+H:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.ActionCardForm.resources
+H:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.DisplayHandForm.resources
+H:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.AgeOfMythologyForm.resources
+H:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.GatherForm.resources
+H:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.InitiationForm.resources
+H:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.NewGameForm.resources
+H:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.NextAgeForm.resources
+H:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.Properties.Resources.resources
+H:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.RecruitForm.resources
+H:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.VictoryCardsForm.resources
+H:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.csproj.GenerateResource.Cache
+H:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.BuildForm.resources
+H:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.TradeForm.resources
+F:\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.exe.config
+F:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.exe
+F:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.pdb
+F:\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.exe
+F:\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.pdb
+F:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.csprojResolveAssemblyReference.cache
+F:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.ActionCardForm.resources
+F:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.BuildForm.resources
+F:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.DisplayHandForm.resources
+F:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.AgeOfMythologyForm.resources
+F:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.GatherForm.resources
+F:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.InitiationForm.resources
+F:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.NewGameForm.resources
+F:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.NextAgeForm.resources
+F:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.Properties.Resources.resources
+F:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.RecruitForm.resources
+F:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.TradeForm.resources
+F:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.VictoryCardsForm.resources
+F:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.csproj.GenerateResource.Cache
+C:\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.exe.config
+C:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.exe
+C:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.pdb
+C:\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.exe
+C:\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.pdb
+C:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.csprojResolveAssemblyReference.cache
+C:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.ActionCardForm.resources
+C:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.BuildForm.resources
+C:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.DisplayHandForm.resources
+C:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.AgeOfMythologyForm.resources
+C:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.GatherForm.resources
+C:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.InitiationForm.resources
+C:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.NewGameForm.resources
+C:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.NextAgeForm.resources
+C:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.Properties.Resources.resources
+C:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.RecruitForm.resources
+C:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.TradeForm.resources
+C:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.VictoryCardsForm.resources
+C:\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.csproj.GenerateResource.Cache
+C:\Users\Thomas\OneDrive\Projects\CSULB\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.exe.config
+C:\Users\Thomas\OneDrive\Projects\CSULB\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.exe
+C:\Users\Thomas\OneDrive\Projects\CSULB\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.pdb
+C:\Users\Thomas\OneDrive\Projects\CSULB\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.exe
+C:\Users\Thomas\OneDrive\Projects\CSULB\AgeOfMythology\Age of Mythology\Age of Mythology\bin\Debug\Age of Mythology.pdb
+C:\Users\Thomas\OneDrive\Projects\CSULB\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\OneDrive\Projects\CSULB\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.ActionCardForm.resources
+C:\Users\Thomas\OneDrive\Projects\CSULB\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.BuildForm.resources
+C:\Users\Thomas\OneDrive\Projects\CSULB\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.DisplayHandForm.resources
+C:\Users\Thomas\OneDrive\Projects\CSULB\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.AgeOfMythologyForm.resources
+C:\Users\Thomas\OneDrive\Projects\CSULB\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.GatherForm.resources
+C:\Users\Thomas\OneDrive\Projects\CSULB\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.InitiationForm.resources
+C:\Users\Thomas\OneDrive\Projects\CSULB\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.NewGameForm.resources
+C:\Users\Thomas\OneDrive\Projects\CSULB\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.NextAgeForm.resources
+C:\Users\Thomas\OneDrive\Projects\CSULB\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.Properties.Resources.resources
+C:\Users\Thomas\OneDrive\Projects\CSULB\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.RecruitForm.resources
+C:\Users\Thomas\OneDrive\Projects\CSULB\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.TradeForm.resources
+C:\Users\Thomas\OneDrive\Projects\CSULB\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age_of_Mythology.VictoryCardsForm.resources
+C:\Users\Thomas\OneDrive\Projects\CSULB\AgeOfMythology\Age of Mythology\Age of Mythology\obj\Debug\Age of Mythology.csproj.GenerateResource.Cache

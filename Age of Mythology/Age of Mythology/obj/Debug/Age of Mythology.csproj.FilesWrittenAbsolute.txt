@@ -1,0 +1,32 @@
+/Volumes/HAPPY21ST/AgeOfMythology/Age of Mythology/Age of Mythology/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/HAPPY21ST/AgeOfMythology/Age of Mythology/Age of Mythology/obj/Debug/Age_of_Mythology.ActionCardForm.resources
+/Volumes/HAPPY21ST/AgeOfMythology/Age of Mythology/Age of Mythology/obj/Debug/Age_of_Mythology.AgeOfMythologyForm.resources
+/Volumes/HAPPY21ST/AgeOfMythology/Age of Mythology/Age of Mythology/obj/Debug/Age_of_Mythology.InitiationForm.resources
+/Volumes/HAPPY21ST/AgeOfMythology/Age of Mythology/Age of Mythology/obj/Debug/Age_of_Mythology.NewGameForm.resources
+/Volumes/HAPPY21ST/AgeOfMythology/Age of Mythology/Age of Mythology/obj/Debug/Age_of_Mythology.Properties.Resources.resources
+/Volumes/HAPPY21ST/AgeOfMythology/Age of Mythology/Age of Mythology/obj/Debug/Age_of_Mythology.VictoryCardsForm.resources
+/Volumes/HAPPY21ST/AgeOfMythology/Age of Mythology/Age of Mythology/bin/Debug/Age of Mythology.exe.config
+/Volumes/HAPPY21ST/AgeOfMythology/Age of Mythology/Age of Mythology/bin/Debug/Age of Mythology.exe.mdb
+/Volumes/HAPPY21ST/AgeOfMythology/Age of Mythology/Age of Mythology/bin/Debug/Age of Mythology.exe
+/Volumes/HAPPY21ST/AgeOfMythology/Age of Mythology/Age of Mythology/obj/Debug/Age of Mythology.exe
+/Volumes/HAPPY21ST/AgeOfMythology/Age of Mythology/Age of Mythology/obj/Debug/Age of Mythology.exe.mdb
+/Users/thomasbrooks4/Desktop/AgeOfMythology/Age of Mythology/Age of Mythology/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/thomasbrooks4/Desktop/AgeOfMythology/Age of Mythology/Age of Mythology/obj/Debug/Age_of_Mythology.ActionCardForm.resources
+/Users/thomasbrooks4/Desktop/AgeOfMythology/Age of Mythology/Age of Mythology/obj/Debug/Age_of_Mythology.BuildForm.resources
+/Users/thomasbrooks4/Desktop/AgeOfMythology/Age of Mythology/Age of Mythology/obj/Debug/Age_of_Mythology.DisplayHandForm.resources
+/Users/thomasbrooks4/Desktop/AgeOfMythology/Age of Mythology/Age of Mythology/obj/Debug/Age_of_Mythology.AgeOfMythologyForm.resources
+/Users/thomasbrooks4/Desktop/AgeOfMythology/Age of Mythology/Age of Mythology/obj/Debug/Age_of_Mythology.GatherForm.resources
+/Users/thomasbrooks4/Desktop/AgeOfMythology/Age of Mythology/Age of Mythology/obj/Debug/Age_of_Mythology.InitiationForm.resources
+/Users/thomasbrooks4/Desktop/AgeOfMythology/Age of Mythology/Age of Mythology/obj/Debug/Age_of_Mythology.NewGameForm.resources
+/Users/thomasbrooks4/Desktop/AgeOfMythology/Age of Mythology/Age of Mythology/obj/Debug/Age_of_Mythology.NextAgeForm.resources
+/Users/thomasbrooks4/Desktop/AgeOfMythology/Age of Mythology/Age of Mythology/obj/Debug/Age_of_Mythology.Properties.Resources.resources
+/Users/thomasbrooks4/Desktop/AgeOfMythology/Age of Mythology/Age of Mythology/obj/Debug/Age_of_Mythology.RecruitForm.resources
+/Users/thomasbrooks4/Desktop/AgeOfMythology/Age of Mythology/Age of Mythology/obj/Debug/Age_of_Mythology.TradeForm.resources
+/Users/thomasbrooks4/Desktop/AgeOfMythology/Age of Mythology/Age of Mythology/obj/Debug/Age_of_Mythology.VictoryCardsForm.resources
+/Users/thomasbrooks4/Desktop/AgeOfMythology/Age of Mythology/Age of Mythology/bin/Debug/Age of Mythology.exe.config
+/Users/thomasbrooks4/Desktop/AgeOfMythology/Age of Mythology/Age of Mythology/bin/Debug/Age of Mythology.exe.mdb
+/Users/thomasbrooks4/Desktop/AgeOfMythology/Age of Mythology/Age of Mythology/bin/Debug/Age of Mythology.pdb
+/Users/thomasbrooks4/Desktop/AgeOfMythology/Age of Mythology/Age of Mythology/bin/Debug/Age of Mythology.exe
+/Users/thomasbrooks4/Desktop/AgeOfMythology/Age of Mythology/Age of Mythology/obj/Debug/Age of Mythology.exe
+/Users/thomasbrooks4/Desktop/AgeOfMythology/Age of Mythology/Age of Mythology/obj/Debug/Age of Mythology.exe.mdb
+/Users/thomasbrooks4/Desktop/AgeOfMythology/Age of Mythology/Age of Mythology/obj/Debug/Age of Mythology.pdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Age of Mythology/Age of Mythology.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Age of Mythology/NewGameForm.cs">
+    <Files>
+      <File FileName="Age of Mythology/InitiationForm.cs" Line="1" Column="1" />
+      <File FileName="Age of Mythology/NewGameForm.cs" Line="7" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Age_220of_220Mythology PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
