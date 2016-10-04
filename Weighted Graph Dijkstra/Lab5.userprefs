@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{5B080593-2A49-4902-ACB6-C54FF7252ABD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeightedGraph.cs">
+    <Files>
+      <File FileName="WeightedGraph.cs" Line="216" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lab5 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
