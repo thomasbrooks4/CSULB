@@ -9,6 +9,7 @@ Age of Mythology
   Age of Mythology was a project for my CECS 343 (Software Engineering) course. We were assigned to create a desktop application based on the board game Age of Mythology. Thomas Brooks and Bryan Guerre used C# and Windows Forms in Visual Studio to create a basic construction of this game. The image resources for the game cannot be uploaded to GitHub due to file size, but the code can still be viewed.
 
 Breadth First Traversal
+
   The Breadth First Traversal project was written in C++ within XCode for my CECS 328 (Data Structures and Algorithms) course. The program uses the breadth first algorithim to traverse a graph entered by the user. After recieving the data and a node to start, it will calculate the distance between the starting node and all of the other nodes using this algorithim.
 
 Edit Distance
